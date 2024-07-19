@@ -29,7 +29,7 @@
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values. - As im very much drawn to always challenging myself i think they fit that criteria not only that but one of my biggest passions is being able to build systems that will make our every day lives easier , alleviate the hard labor and automate timely processes , and i think by me starting with Software Development it sets the foundation but it also opens up the room for more improvement 
-    - Identify any gaps or areas for further exploration. - currently theres still a lot i need to learn from 
+    - Identify any gaps or areas for further exploration. - currently theres still a lot i need to learn from , ive been able to learn html which is a markup language this creates a structure of any web page then we use css to style the content i think what would form as a gap currently is making the web page more dynamic so using tools like java script , node.js or even use frameworks like css to make the responsiveness more faster and efficient 
 
 ### Part 3: SMART Career Goals
 
