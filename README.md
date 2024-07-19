@@ -34,32 +34,31 @@
 
 1. **Short-term Goals** (Next 1-2 years):
   
-    - Goal 1: Become a react developer in 6months
+    - Goal 1: Become a frontend developer in 6months
     
-    - Goal 2: Get a job in August as a junior react/front developer
+    - Goal 2: Get a job in January as a junior frontend developer
 
 2. **Long-term Goals** (3-5 years and beyond):
-    - Outline of my  long-term career aspirations - I aspire to learn fullstack with focus on backend development and add ai skill to future proof my career as a software developer.
+    - Outline of my  long-term career aspirations - I aspire to learn fullstack with focus on backend development pivot my career as a software developer.
     - Describe how these align with your interests and skills -  I enjoy solving complex problems , I also think backend and AI blend so well with my interests 
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Goal 1: Become a react developer in 6months
+    - Goal 1: Become a frontend developer in 6months
 
-    - Specific -  By June 30, 2024, I will enhance my React proficiency by building two complete web applications.
+    - Specific -  By December, 2024, I would have gained the necessary competency and credibitlity to be able to pursue a career as a front end developer thanks to codespace and its edge gripping projects .
     - Measurable - I will measure my progress by successfully completing and deploying both projects on github 
-    - Achievable - Two personal projects are attainable in the months left and also consistent commits on github
-    - Relevant - Improving React skills is directly relevant to my career as a web developer.
-    - Time -bound - I aim to achieve this goal by June 30, 2024.
+    - Achievable - push two practical projects on github every week as park of codespaces weekly deadlines this enhances my technical aptitude as i am constantly being practical with the concepts i learn 
+    - Time -bound - I aim to achieve this goal by December 31, 2024.
     
-    - Goal 2: Get a job in August as a junior react/front developer
+    - Goal 2: Get a job in January as a junior front-end developer
 
-    - Specific -  Get a job by August 2024
-    - Measurable - complete my portfolio and apply to atleast 5-10 jobs a week from June 2024
-    - Achievable - I have basic understanding of programming this should help grasp concepts faster and dedicate atleast 2 hours to create extra projects outside codespace.
-    - Relevant - Becoming a software engineer aligns with my long-term career goals.
+    - Specific -  Get a job by January 2025
+    - Measurable - Refactored my portfolio so it looks visually appealing and submit to atleast 10 companies per week
+    - Achievable - I have some foundational background with one of the programming languages this allows for adaptability as im able to understand concepts quicker and i should try to expand on this and be fully proficient in the language 
+    - Relevant - Becoming a full stack engineer aligns with my long-term career goals.
     - Time -bound - Achieve this goal within 7 months from today.
 
 
@@ -67,7 +66,7 @@
 
 
     - Specific - Become a proficient full-stack web developer with focus on backend
-    - Measurable - complete atleast 5 fullstack applications that include CRUD/Apis/ecommerce with a tech stack lile html,tailwind css, apis, react, node.js/python for backend and databases
+    - Measurable - complete atleast 3 fullstack applications that encompasses everything I've learnt 
     - Achievable - I have basic programming knowledge and some experience with web development already this will help fast track my plan.
     - Relevant - I want to add backend skills because they align with my interest.
     - Time- bound - I want to achieve this goal in 1.5 years.
@@ -78,19 +77,18 @@
 
 1. **Anticipated Challenges**:
      Potential obstacles or challenges in reaching my goals.
-
-    - Huge competition in the job market
-    - Lack of work experience
-
+    - Lack of work experience cause companies nowadays are usually looking for people who have had 2+ years of working experience now
+    - Imposter Syndrome , you get introduced to all these different technologies and everyday you learn something new so much that its even hard to keep up with as software engineering is a constantly growing field and you might find that most people understand and youre the only one who doesnt and that might raise feelings of doubt on whether it is even the right career path for you 
+    
     Strategies to overcome these challenges.
 
-    - Create a portfolio that only has projects that clients or companies can relate to.
-    - Do freelancing gigs/ offer my services for free to some companies to gain experience
+    - Create a portfolio that only has projects that will be benefecial for companies that way it highlights technical profiency 
+    - Documenting your achievements that way you can always go back reassure yourself that you deserve this and you are worth being here 
 
 2. **Opportunities for Growth**:
     
-   - Attend community fridays at codespace to connect and learn from experts in the field
-   - watch youtube videos on portfolio reviews to gain insights on what great portfolios look like.
-   - Attend tech events online or that are near my area to connect with potential employers and peers
-   - DM recruiters and share my work with them and hope to score an interview.
+   - Attend community fridays at codespace to network 
+   - not only rely on codesppace but further do the deep learning whether its watching youtube videos doing code alongs or even interacting on scrimba allows for me to upskill 
+   - Attend tech conferences this not only allows for networking but you get taught about leading edge technologies 
+
 
